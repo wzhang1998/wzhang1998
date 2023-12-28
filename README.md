@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 🔭 I’m currently working on the thesis project for my MFA in Computer Arts. My focus is Houdini Engine Python API in Unreal Engine 5.
+- 🌱 I’m currently learning Python, C++, VEX, and GLSL...
+- 👯 I’m looking to collaborate on VR/XR projects in Unreal Engine or Unity...
+- 📫 How to reach me: Wenyiz2021@gmail.com
 
 <!--
 **wzhang1998/wzhang1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

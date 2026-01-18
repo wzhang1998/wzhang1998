@@ -12,34 +12,6 @@ My work sits between **rendering, interaction, and systems**: visuals that look 
 
 **Focus now:** Unreal C++ rendering extensions, performance-aware pipelines, and browser-native realtime (WebGPU/WebXR).
 
----
-
-## What I do
-- **Real-time rendering & shaders**: custom materials, GPU simulations, HLSL/GLSL, realtime look-dev
-- **Unreal Engine systems**: tools, runtime features, XR/interactive builds, plugin-minded development
-- **Pipeline & automation**: Python tooling, asset ingestion/export, repeatable workflows
-- **Sensors / robotics integration**: OSC + hardware-driven interaction (camera / control loops / external devices)
-- **Research-minded prototyping**: fast experiments → stable systems (art + engineering without the fake wall)
-
----
-
-## Selected stack
-**Realtime:** Unreal Engine (UE5), TouchDesigner, Houdini  
-**GPU / Shading:** HLSL, GLSL (learning WGSL)  
-**Code:** Python, C++ (Unreal), TypeScript/React (for tools + dashboards)  
-**Systems:** Docker, basic observability patterns (logs/metrics), CI-friendly tooling  
-**Interchange / Data:** Alembic/USD-ish thinking, metadata export, reproducible renders
-
----
-
-## How I work
-I like building **small, sharp prototypes** that can graduate into **maintainable tools**:
-- measurable performance (profiling over vibes)
-- clear interfaces (artists + engineers can both use it)
-- documentation that future-me won’t curse present-me for
-
----
-
 ## Contact
 - [Website](https://www.wenyizhang.com/) 
 - [Linkedin](https://www.linkedin.com/in/wenyizhang-work/)
